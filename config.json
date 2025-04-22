@@ -1,0 +1,5 @@
+{
+    "data": "path to database json file",
+    "salt": "Your$Secure&Static#Salt123",
+    "folder": "Path to folder where files will be created"
+}
